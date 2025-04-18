@@ -1,0 +1,55 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px solid gainsboro;
+}
+
+h1 {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+ul {
+  background-color: #444;
+  color: white;
+  justify-content: center;
+  padding: 2px;
+  margin: 0;
+  border-bottom: 15px solid gainsboro;
+  display: flex;
+  list-style: none;
+}
+
+ul li {
+  margin: 0;
+  padding: 6px;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  margin: 0;
+  padding: 20px;
+}
+
+main img {
+  width: 366px;
+  height: 224px;
+  padding: 9px;
+  margin: 0;
+}
+
+footer {
+  background-color: #444;
+  color: white;
+  text-align: center;
+  padding: 3px;
+  border-top: 15px solid gainsboro;
+}
